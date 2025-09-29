@@ -5,21 +5,22 @@
     "keywords": [
         "purbaya",
         "mbg",
-        "koperasi merah putih"
+        "koperasi merah putih",
+        "prabowo"
     ],
-    "max_page_length": 2,
+    "max_page_length": 3,
     "last_output_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_070311.csv",
     "topic_keywords": [
         "bantuan sosial",
         "makan bergizi gratis",
         "tax amnesty"
     ],
-    "last_konsolidasi_time": "20250929_093405",
-    "AI_name": "openai",
-    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_093738.csv",
-    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_093738.xlsx",
-    "analisis_ai_output": "analisis_ai_20250929_openai_default.csv",
-    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20250929_093405.csv",
-    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_093736.csv",
+    "last_konsolidasi_time": "20250929_135048",
+    "AI_name": "deepseek",
+    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_135856.csv",
+    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_135856.xlsx",
+    "analisis_ai_output": "analisis_ai_20250929_deepseek_default.csv",
+    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20250929_135048.csv",
+    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_135853.csv",
     "model_version": "gpt-5-nano"
 }
