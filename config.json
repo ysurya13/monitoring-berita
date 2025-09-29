@@ -12,16 +12,11 @@
     "topic_keywords": [
         "bantuan sosial"
     ],
-    "enable_llm": true,
-    "enable_llm_cluster_label": true,
-    "llm_provider": "deepseek",
-    "llm_model": "deepseek-chat",
-    "llm_temperature": 0.2,
-    "llm_max_tokens": 200,
-    "filter_to_three_issues": true,
-    "last_konsolidasi_time": "20250928_164945",
+    "last_konsolidasi_time": "20250929_071722",
     "AI_name": "openai",
-    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/hasil_labeling/hasil_labeling_20250926_151339.csv",
-    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/hasil_labeling/hasil_labeling_20250926_151339.xlsx",
-    "analisis_ai_output": "analisis_ai_20250928_deepseek_default.csv"
+    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_072237.csv",
+    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250929_072237.xlsx",
+    "analisis_ai_output": "analisis_ai_20250929_openai_default.csv",
+    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20250929_071722.csv",
+    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_072119.csv"
 }
