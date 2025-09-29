@@ -10,6 +10,16 @@
 *.ods
 *.tsv
 
+# folder for storing data
+analisis_relevansi/
+daftar_berita/*.xlsx
+daftar_berita/*.csv
+data_lainnya/
+hasil_baca_berita/
+hasil_labeling/
+konsolidasi_berita/
+old_notebooks/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
