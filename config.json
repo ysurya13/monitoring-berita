@@ -1,6 +1,6 @@
 {
     "search_date": [
-        "2025-09-28"
+        "2025-09-29"
     ],
     "keywords": [
         "purbaya",
@@ -10,7 +10,9 @@
     "max_page_length": 5,
     "last_output_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_070311.csv",
     "topic_keywords": [
-        "bantuan sosial"
+        "bantuan sosial",
+        "makan bergizi gratis",
+        "tax amnesty"
     ],
     "last_konsolidasi_time": "20250929_071722",
     "AI_name": "openai",
@@ -19,5 +21,5 @@
     "analisis_ai_output": "analisis_ai_20250929_openai_default.csv",
     "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20250929_071722.csv",
     "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_072119.csv",
-    "model_version": "gpt-3.5-turbo"
+    "model_version": "gpt-5-nano"
 }
