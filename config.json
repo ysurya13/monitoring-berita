@@ -1,27 +1,27 @@
 {
     "search_date": [
-        "2025-09-30",
-        "2025-09-29"
+        "2025-10-01"
     ],
     "keywords": [
         "purbaya",
         "sidak BNI",
-        "cukai"
+        "rokok ilegal"
     ],
-    "max_page_length": 3,
+    "max_page_length": 2,
     "last_output_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250929_070311.csv",
     "topic_keywords": [
         "rokok ilegal",
         "makan bergizi gratis",
         "tax amnesty",
-        "sidak BNI"
+        "sidak BNI",
+        "lainnya"
     ],
-    "last_konsolidasi_time": "20250930_140715",
+    "last_konsolidasi_time": "20251001_085603",
     "AI_name": "deepseek",
-    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250930_143144.csv",
-    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20250930_143144.xlsx",
-    "analisis_ai_output": "00_hasil_analisis/seluruh_berita/analisis_ai_20250930_deepseek_default.csv",
-    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20250930_140715.csv",
-    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20250930_141701.csv",
+    "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20251001_085818.csv",
+    "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20251001_085818.xlsx",
+    "analisis_ai_output": "00_hasil_analisis/seluruh_berita/analisis_ai_20251001_deepseek_default.csv",
+    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20251001_085603.csv",
+    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20251001_085817.csv",
     "model_version": "gpt-5-nano"
 }
