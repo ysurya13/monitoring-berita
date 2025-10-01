@@ -1,10 +1,12 @@
 {
     "search_date": [
-        "2025-10-01"
+        "2025-10-01",
+        "2025-09-30",
+        "2025-09-29",
+        "2025-09-28"
     ],
     "keywords": [
-        "purbaya",
-        "sidak BNI",
+        "purbaya rokok ilegal",
         "rokok ilegal"
     ],
     "max_page_length": 2,
@@ -16,12 +18,12 @@
         "sidak BNI",
         "lainnya"
     ],
-    "last_konsolidasi_time": "20251001_085603",
+    "last_konsolidasi_time": "20251001_204151",
     "AI_name": "deepseek",
     "labelled_data_csv": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20251001_085818.csv",
     "labelled_data_xlsx": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_labeling/hasil_labeling_20251001_085818.xlsx",
     "analisis_ai_output": "00_hasil_analisis/seluruh_berita/analisis_ai_20251001_deepseek_default.csv",
-    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20251001_085603.csv",
-    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20251001_085817.csv",
+    "last_konsolidasi_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/konsolidasi_berita/hasil_gabungan_20251001_204151.csv",
+    "last_baca_berita_path": "/Users/yusufpradana/Library/CloudStorage/OneDrive-Personal/Pekerjaan BMN/05. 2025/98_monitoring_berita/monitoring-berita/hasil_baca_berita/hasil_scraping_artikel_20251001_204303.csv",
     "model_version": "gpt-5-nano"
 }
